@@ -1,5 +1,3 @@
-# Rikki Weinberger - Assignment 1
-
 from num2words import num2words # imports the num2words module
 
 # function replaces numbers with their string representation
